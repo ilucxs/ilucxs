@@ -4,9 +4,9 @@
 
 ## I'm a Computer Science Student!
 
-- 🔭 I’m currently on my undergradute computer science course
-- 🌱 I’m currently learning Web Development 
+- 🔭 I’m currently on my undergradute computer science course 
 - 🥅 2020 Goals: Learn basics of Programming
+- 🌱 I’m currently learning Web Development
 - ⚡ Fun fact: I love to play games
 
 ### Connect with me:
