@@ -5,7 +5,7 @@
 ## I'm a Computer Science Student!
 
 - 🔭 I’m currently on my undergradute computer science course 
-- 🥅 2020 Goals: Learn basics of Programming
+- 🥅 2021 Goals: Improve My Knowledge
 - 🌱 I’m currently learning Web Development
 - ⚡ Fun fact: I love to play games
 
