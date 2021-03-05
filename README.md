@@ -1,4 +1,4 @@
-### Ahoy, I'm Lucas aka [ilucxs][youtube] - 19 yrold - São Paulo/Brazil  👋
+### Ahoy, I'm Lucas - 19 yrold - São Paulo/Brazil  👋
 
 
 
