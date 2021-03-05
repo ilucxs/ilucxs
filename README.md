@@ -27,4 +27,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCdgE5BTsqRd1geHe9-TfN2w?view_as=subscriber
 [instagram]: https://www.instagram.com/ilucxs_/?hl=pt-br
-[linkedin]: www.linkedin.com/in/lucascpcosta
+[linkedin]: https://www.linkedin.com/in/lucascpcosta/
